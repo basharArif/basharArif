@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+I'm Bashar Arif, Fullstack Developer. 
 
 <!--
 **basharArif/basharArif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Where to find me
+
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bashar4rif)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22)](https://www.linkedin.com/in/bashar-aarif/)
+
